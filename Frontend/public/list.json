@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Lorem,ipsum",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":8,
+        "name":"Food Book",
+        "title":"Lorem,ipsum",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":9,
+        "name":"Entertainment Book",
+        "title":"Lorem,ipsum",
+        "price":500,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":10,
+        "name":"Music Book",
+        "title":"Lorem,ipsum",
+        "price":600,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    },
+
+    {
+        "id":11,
+        "name":"Sports Book",
+        "title":"Lorem,ipsum",
+        "price":1000,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?w=900&t=st=1713721516~exp=1713722116~hmac=568d6e1ece90b44b6f2f47fd32afcc39f8b77a47223511ff80705d3891f42c6b"
+    }
+]
